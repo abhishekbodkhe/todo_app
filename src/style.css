@@ -1,0 +1,12 @@
+*{
+    background-color: aliceblue;
+}
+
+.task-text {
+    transition: all 0.3s ease;
+}
+
+.task-text.completed {
+    text-decoration: line-through;
+    color: #6c757d;
+}

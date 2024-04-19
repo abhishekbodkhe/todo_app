@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "homepage": "https://abhishekbodkhe.github.io/todo-app>",
-=======
-  "homepage": "https://abhishekbodkhe.github.io/todo-app",
->>>>>>> 14700167fac10808f93e5cdbb4f1561e788c8dbd
+
   "name": "todo-app",
   "version": "0.1.0",
   "private": true,
@@ -19,8 +15,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

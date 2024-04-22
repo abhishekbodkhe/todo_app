@@ -43,7 +43,7 @@ Make sure you have the following installed on your system:
     npm start
     ```
 
-    This will start the development server, and the application should be accessible at `http://localhost:3000`.
+    This will start the development server, and your the application should be accessible at `http://localhost:3000`.
 
 ## Contributing
 

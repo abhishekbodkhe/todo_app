@@ -1,4 +1,4 @@
-# React To-Do Application
+# To-Do Application
 
 This is a simple To-Do application built using ReactJS and Redux. The application allows users to add, view, and delete tasks, and mark tasks as completed. Additionally, the application uses Bootstrap for styling and local storage for persistent data.
 

@@ -45,6 +45,9 @@ Make sure you have the following installed on your system:
 
     This will start the development server, and your the application should be accessible at `http://localhost:3000`.
 
+## Screenshot
+<img src="https://github.com/abhishekbodkhe/todo_app/blob/main/todo-1.jpg?raw=true" alt="GitHub Logo" style="max-width: 100%;">
+
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
